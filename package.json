@@ -186,7 +186,8 @@
     ],
     "plugins": [
       "cypress",
-      "prettier"
+      "prettier",
+      "dev-server:start"
     ],
     "rules": {
       "no-unused-expressions": 0
